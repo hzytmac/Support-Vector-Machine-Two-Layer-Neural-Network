@@ -1,1 +1,2 @@
-# cs231nA1
+# cs231n
+# for UWaterloo ECE493 only
