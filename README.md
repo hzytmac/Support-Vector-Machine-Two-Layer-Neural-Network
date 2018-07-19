@@ -1,2 +1,1 @@
-# cs231n
-# for UWaterloo ECE493 only
+# Support Vector Machine/Two Layer Neural Network
